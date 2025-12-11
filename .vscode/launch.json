@@ -1,0 +1,75 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "outerClass",
+      "request": "launch",
+      "mainClass": "outerClass",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "B",
+      "request": "launch",
+      "mainClass": "B",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Test6",
+      "request": "launch",
+      "mainClass": "Test6",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "SumofN",
+      "request": "launch",
+      "mainClass": "SumofN",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "SumofTwoNumber",
+      "request": "launch",
+      "mainClass": "SumofTwoNumber",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Swap",
+      "request": "launch",
+      "mainClass": "Swap",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "AreaCircle",
+      "request": "launch",
+      "mainClass": "AreaCircle",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "SimpleInterest",
+      "request": "launch",
+      "mainClass": "SimpleInterest",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "AreaRectangle",
+      "request": "launch",
+      "mainClass": "unit2.AreaRectangle",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Run AreaCircle (unit2)",
+      "request": "launch",
+      "mainClass": "unit2.AreaCircle",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
