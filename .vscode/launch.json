@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Time",
+      "request": "launch",
+      "mainClass": "Time",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "outerClass",
       "request": "launch",
       "mainClass": "outerClass",
