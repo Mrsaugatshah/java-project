@@ -33,19 +33,19 @@ public class Time {
     // function to subtract and return time object
     Time subtract(Time t2) {
         if (t2.ss > ss) {
-            --mm;
+            --mm; // ss ma pugana mm bata borrow gary0o
             ss += 60;
         }
         this.ss = ss - t2.ss;
         if (t2.mm > mm) {
-            --hh;
+            --hh;// mm bata pugana hh bata barrow garyo
             mm += 60;
 
         }
-        this.mm = mm - t2.mm;
+        this.mm = mm - t2.mm;// yadi pugyo vani directly minuus
         this.hh = hh - t2.hh;
         return this;
-    }
+    } // naya time return garyo
 
     void display() {
         System.out.println("HH:MM:SS = " + hh + ":" + mm + ":" + ss);
