@@ -1,4 +1,5 @@
 
+//single level inheritance
 import java.util.Scanner;
 
 class A1 {

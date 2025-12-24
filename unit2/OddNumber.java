@@ -13,6 +13,7 @@ public class OddNumber {
             if (arr[i] % 2 != 0)
                 sum = sum + arr[i];
         }
+        
         System.out.println("\nsum of odd number in array=" + sum);
     }
 
