@@ -3,6 +3,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TriangleDemo",
+      "request": "launch",
+      "mainClass": "unit2.TriangleDemo",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "areatringleconstructor",
+      "request": "launch",
+      "mainClass": "unit2.areatringleconstructor",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "Time",
       "request": "launch",
       "mainClass": "Time",
