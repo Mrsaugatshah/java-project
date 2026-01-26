@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "EvenOddThread",
+      "request": "launch",
+      "mainClass": "EvenOddThread",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "WritingToFile",
+      "request": "launch",
+      "mainClass": "WritingToFile",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Threaddeadlock",
+      "request": "launch",
+      "mainClass": "Threaddeadlock",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "InterThreadCommunication",
+      "request": "launch",
+      "mainClass": "InterThreadCommunication",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "NestedTryCatch",
+      "request": "launch",
+      "mainClass": "NestedTryCatch",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "WithoutSynchronization",
+      "request": "launch",
+      "mainClass": "WithoutSynchronization",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "TriangleDemo",
       "request": "launch",
       "mainClass": "unit2.TriangleDemo",

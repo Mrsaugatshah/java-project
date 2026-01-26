@@ -14,7 +14,7 @@ public class NestedTryCatch {
                 System.out.println(e);
             }
         } catch (Exception e) {
-            System.out.println("handeled");
+            System.out.println("handled");
         }
     }
 }
