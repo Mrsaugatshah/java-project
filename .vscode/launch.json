@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "WrintingReadingFromFile",
+      "request": "launch",
+      "mainClass": "WrintingReadingFromFile",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "ScannerExample",
+      "request": "launch",
+      "mainClass": "ScannerExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "CopyFile",
+      "request": "launch",
+      "mainClass": "CopyFile",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "ReadingFromFile",
+      "request": "launch",
+      "mainClass": "ReadingFromFile",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "EvenOddThread",
       "request": "launch",
       "mainClass": "EvenOddThread",
