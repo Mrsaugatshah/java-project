@@ -15,6 +15,7 @@ public class Time {
     Time add(Time t2) {
         this.ss = ss + t2.ss;
         this.mm = mm + t2.mm;
+
         this.hh = hh + t2.hh;
         // implement mechanism to convert time to proper format
         if (this.ss >= 60) {
@@ -76,4 +77,5 @@ public class Time {
         }
         sc.close();
     }
+
 }

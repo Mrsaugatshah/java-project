@@ -42,6 +42,7 @@ public class MyDistanca {
         Scanner sc = new Scanner(System.in);
         System.out.print("\npress 1 for sum and 2 for  difference:");
         choice = sc.nextInt();
+
         if (choice == 1) {
             // add distance
             distance1.addDistance(distance2);
