@@ -3,6 +3,62 @@
   "configurations": [
     {
       "type": "java",
+      "name": "StringRepresentation",
+      "request": "launch",
+      "mainClass": "StringRepresentation",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "parseIntExample",
+      "request": "launch",
+      "mainClass": "parseIntExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "EqualsExample",
+      "request": "launch",
+      "mainClass": "EqualsExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "CompareToExample",
+      "request": "launch",
+      "mainClass": "CompareToExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "DoubleToPrimitiveTypes",
+      "request": "launch",
+      "mainClass": "DoubleToPrimitiveTypes",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "UnboxingExample",
+      "request": "launch",
+      "mainClass": "UnboxingExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "AutoboxingExample",
+      "request": "launch",
+      "mainClass": "AutoboxingExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "javaMathExample",
+      "request": "launch",
+      "mainClass": "javaMathExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "DeSerializationExample",
       "request": "launch",
       "mainClass": "DeSerializationExample",
