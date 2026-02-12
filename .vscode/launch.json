@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "mapExample",
+      "request": "launch",
+      "mainClass": "mapExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "RandomNumberGeneration",
+      "request": "launch",
+      "mainClass": "RandomNumberGeneration",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "stackOperation",
+      "request": "launch",
+      "mainClass": "stackOperation",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "ValueOfExample",
+      "request": "launch",
+      "mainClass": "ValueOfExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "StringRepresentation",
       "request": "launch",
       "mainClass": "StringRepresentation",
