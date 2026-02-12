@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Sublistexample",
+      "request": "launch",
+      "mainClass": "Sublistexample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "ListIteratorExample",
+      "request": "launch",
+      "mainClass": "ListIteratorExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "ListInterfaceExample2",
+      "request": "launch",
+      "mainClass": "ListInterfaceExample2",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "ListInterfaceExample",
+      "request": "launch",
+      "mainClass": "ListInterfaceExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "HashMapExample",
       "request": "launch",
       "mainClass": "HashMapExample",
