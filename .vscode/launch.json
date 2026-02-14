@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HeshSetExample2",
+      "request": "launch",
+      "mainClass": "HeshSetExample2",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "HashSetExample1",
+      "request": "launch",
+      "mainClass": "HashSetExample1",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "ArrayListExample",
+      "request": "launch",
+      "mainClass": "ArrayListExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "Sublistexample",
       "request": "launch",
       "mainClass": "Sublistexample",
