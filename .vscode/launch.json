@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PanelExample",
+      "request": "launch",
+      "mainClass": "PanelExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "FrameByAssociation",
+      "request": "launch",
+      "mainClass": "FrameByAssociation",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "FrameByInheritance",
+      "request": "launch",
+      "mainClass": "FrameByInheritance",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "TreeSetexample",
+      "request": "launch",
+      "mainClass": "TreeSetexample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "HeshSetExample2",
       "request": "launch",
       "mainClass": "HeshSetExample2",
