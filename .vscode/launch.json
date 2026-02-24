@@ -3,6 +3,48 @@
   "configurations": [
     {
       "type": "java",
+      "name": "InternalFrameExample",
+      "request": "launch",
+      "mainClass": "InternalFrameExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "JTableExample",
+      "request": "launch",
+      "mainClass": "JTableExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "StudentInformation",
+      "request": "launch",
+      "mainClass": "StudentInformation",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Qno44",
+      "request": "launch",
+      "mainClass": "Qno44",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "qno41",
+      "request": "launch",
+      "mainClass": "qno41",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "TreeSetExample2",
+      "request": "launch",
+      "mainClass": "TreeSetExample2",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "PanelExample",
       "request": "launch",
       "mainClass": "PanelExample",
