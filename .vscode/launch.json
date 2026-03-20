@@ -3,6 +3,125 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MouseAdapterExample",
+      "request": "launch",
+      "mainClass": "MouseAdapterExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "FactorialCube",
+      "request": "launch",
+      "mainClass": "FactorialCube",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "WindowAdapterExample",
+      "request": "launch",
+      "mainClass": "WindowAdapterExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "AddSubtract",
+      "request": "launch",
+      "mainClass": "AddSubtract",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "sum",
+      "request": "launch",
+      "mainClass": "sum",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "SquareCalculator",
+      "request": "launch",
+      "mainClass": "SquareCalculator",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "EvenOrOdd",
+      "request": "launch",
+      "mainClass": "EvenOrOdd",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Qno56",
+      "request": "launch",
+      "mainClass": "Qno56",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Qno55",
+      "request": "launch",
+      "mainClass": "Qno55",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Qno54",
+      "request": "launch",
+      "mainClass": "Qno54",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Qno53",
+      "request": "launch",
+      "mainClass": "Qno53",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Qno52",
+      "request": "launch",
+      "mainClass": "Qno52",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "Qno50",
+      "request": "launch",
+      "mainClass": "Qno50",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "qno49",
+      "request": "launch",
+      "mainClass": "qno49",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "CardLayoutExample",
+      "request": "launch",
+      "mainClass": "CardLayoutExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "BorderLayoutExample",
+      "request": "launch",
+      "mainClass": "BorderLayoutExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
+      "name": "jmenubarExample",
+      "request": "launch",
+      "mainClass": "jmenubarExample",
+      "projectName": "java_46a739c4"
+    },
+    {
+      "type": "java",
       "name": "InternalFrameExample",
       "request": "launch",
       "mainClass": "InternalFrameExample",
