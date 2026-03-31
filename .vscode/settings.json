@@ -1,13 +1,20 @@
 {
   "java.project.sourcePaths": [
-    ".vscode/unit8",
-    ".vscode/unit4",
-    ".vscode/unit 9",
-    ".vscode/unit 7",
-    ".vscode/unit 6",
-    ".vscode/unit 5",
-    ".vscode/unit 3",
-    ".vscode/unit 10",
-    ".vscode/unit 11"
-  ]
+    "unit8",
+    "unit4",
+    "unit2",
+    "unit1",
+    "unit 9",
+    "unit 7",
+    "unit 6",
+    "unit 5",
+    "unit 3",
+    "unit 11",
+    "unit 10"
+  ],
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "d:\\mysql-connector-java-8.0.19.jar"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
 }

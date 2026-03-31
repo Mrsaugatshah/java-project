@@ -1,4 +1,3 @@
-package unit2;
 
 import java.util.Scanner;
 
@@ -32,12 +31,16 @@ public class NprimeNumber {
     }
 
     private static boolean isPrime(int x) {
-        if (x < 2) return false;
-        if (x == 2) return true;
-        if (x % 2 == 0) return false;
+        if (x < 2)
+            return false;
+        if (x == 2)
+            return true;
+        if (x % 2 == 0)
+            return false;
         int limit = (int) Math.sqrt(x);
         for (int i = 3; i <= limit; i += 2) {
-            if (x % i == 0) return false;
+            if (x % i == 0)
+                return false;
         }
         return true;
     }

@@ -1,4 +1,3 @@
-package unit2;
 
 class Triangle {
     int a, b, c;

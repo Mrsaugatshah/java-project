@@ -1,11 +1,12 @@
 class Rectangle {
+
     int length;
     int breadth;
 
     // Constructor
     Rectangle(int l, int b) {
-        length = l;
-        breadth = b;
+        this.length = l;
+        this.breadth = b;
     }
 
     // Method to print area
@@ -24,15 +25,15 @@ class Square extends Rectangle {
 
     // Constructor
     Square(int s) {
-        super(s, s); // calling parent constructor
+        super(s, s);
     }
 }
 
 // Main class
 public class qno22 {
+
     public static void main(String[] args) {
 
-        // Rectangle object
         Rectangle r = new Rectangle(10, 5);
         System.out.println("Rectangle:");
         r.printArea();
@@ -40,7 +41,6 @@ public class qno22 {
 
         System.out.println();
 
-        // Square object
         Square s = new Square(4);
         System.out.println("Square:");
         s.printArea();
